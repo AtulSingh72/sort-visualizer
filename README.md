@@ -1,3 +1,13 @@
+This website was created as a project to better understand and visualize various college level Sorting Algorithms. The visualizations include the famous sorting apps such as:
+1. Bubble Sort
+2. Merge Sort
+3. Insertion Sort
+4. Heap Sort
+5. Selection Sort
+6. Quick Sort
+
+The projected is created as a Single Page Website using React to make the page dynamic to help us show the animations better.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
