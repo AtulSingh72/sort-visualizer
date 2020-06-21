@@ -6,7 +6,9 @@ This website was created as a project to better understand and visualize various
 5. Selection Sort
 6. Quick Sort
 
-The projected is created as a Single Page Website using React to make the page dynamic to help us show the animations better.
+The projected is created as a Single Page Website using React to make the page dynamic to help us show the animations better. The interface is also very simple with a Button to Generate A Random Array and a Button corresponding to each of the Sorting Algorithms.
+Below is a ScreenShot of the visualizer while it was performing Merge Sort.
+![alt text](https://github.com/AtulSingh72/sort-visualizer/blob/master/MergeSort.jpg?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
